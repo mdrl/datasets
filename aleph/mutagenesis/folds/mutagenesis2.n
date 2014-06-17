@@ -1,0 +1,6 @@
+active(d132).
+active(d14).
+active(d138).
+active(d131).
+active(d42).
+active(d78).

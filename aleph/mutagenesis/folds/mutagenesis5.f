@@ -1,0 +1,10 @@
+active(d16).
+active(d63).
+active(d12).
+active(d30).
+active(d127).
+active(d170).
+active(d83).
+active(d59).
+active(d61).
+active(d178).

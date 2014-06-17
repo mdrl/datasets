@@ -1,0 +1,2 @@
+active(d123).
+active(d39).

@@ -1,0 +1,5 @@
+east([c(1,rectangle,long,not_double,jagged,3,l(hexagon,2))]).
+east([c(1,rectangle,short,double,flat,2,l(diamond,2))]).
+east([c(1,rectangle,short,double,flat,2,l(circle,2))]).
+east([c(1,rectangle,short,not_double,none,2,l(rectangle,2))]).
+east([c(1,rectangle,short,double,flat,2,l(rectangle,1))]).

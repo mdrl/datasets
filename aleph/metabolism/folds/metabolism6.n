@@ -1,0 +1,17 @@
+metabolism('G234824').
+metabolism('G235145').
+metabolism('G235815').
+metabolism('G235631').
+metabolism('G234716').
+metabolism('G235105').
+metabolism('G235607').
+metabolism('G235035').
+metabolism('G234644').
+metabolism('G234206').
+metabolism('G239017').
+metabolism('G234402').
+metabolism('G236363').
+metabolism('G238024').
+metabolism('G234392').
+metabolism('G234949').
+metabolism('G239010').

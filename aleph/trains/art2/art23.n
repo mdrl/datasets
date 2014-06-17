@@ -1,0 +1,2 @@
+east([c(1,rectangle,short,double,flat,2,l(diamond,2))]).
+east([c(1,rectangle,short,double,flat,2,l(diamond,2))]).

@@ -1,0 +1,11 @@
+active(d136).
+active(d102).
+active(d6).
+active(d93).
+active(d126).
+active(d43).
+active(d28).
+active(d140).
+active(d101).
+active(d103).
+active(d45).

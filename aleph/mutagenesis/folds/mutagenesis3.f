@@ -1,0 +1,9 @@
+active(d44).
+active(d86).
+active(d71).
+active(d31).
+active(d176).
+active(d79).
+active(d145).
+active(d68).
+active(d41).

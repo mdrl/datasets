@@ -1,0 +1,8 @@
+active(d116).
+active(d175).
+active(d2).
+active(d38).
+active(d130).
+active(d135).
+active(d9).
+active(d139).

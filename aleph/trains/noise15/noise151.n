@@ -1,0 +1,7 @@
+east([c(1,u_shaped,long,not_double,flat,3,nil)]).
+east([c(1,rectangle,short,double,peaked,2,l(circle,1))]).
+east([c(1,rectangle,short,not_double,none,2,l(rectangle,2))]).
+east([c(1,rectangle,short,not_double,peaked,2,l(diamond,2))]).
+east([c(1,rectangle,short,double,peaked,2,l(triangle,1))]).
+east([c(1,rectangle,short,double,peaked,2,l(rectangle,2))]).
+east([c(1,rectangle,short,double,none,2,l(triangle,1))]).

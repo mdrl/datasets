@@ -1,0 +1,8 @@
+active(d144).
+active(d182).
+active(d66).
+active(d147).
+active(d65).
+active(d84).
+active(d188).
+active(d55).

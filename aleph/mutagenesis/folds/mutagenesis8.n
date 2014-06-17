@@ -1,0 +1,7 @@
+active(d120).
+active(d89).
+active(d181).
+active(d179).
+active(d73).
+active(d77).
+active(d141).

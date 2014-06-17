@@ -1,0 +1,4 @@
+active(d168).
+active(d185).
+active(d19).
+active(d154).
