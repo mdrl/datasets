@@ -4,9 +4,9 @@
 %:- set(evalfn, laplace).
 %:- set(noise,0).
 %:- set(minacc,1.0).
-:- set(minpos,2).
+%:- set(minpos,2). %since progolemnot operates in pairs mode a clause cannot cover less than 2 examples by default
 %:- set(nodes,1000000).
-:- set(verbose,1).
+%:- set(verbose,1).
 :- set(cross_validation_folds, 10).
 %:- set(example_inflation, 10).
 %:- set(m,20).
