@@ -1,6 +1,6 @@
 %%% Learning Bias %%%
 
-:- set(i, 3).
+%:- set(i, 3). %Equal to the default!
 %:- set(language,3).
 %:- set(language_init,3).
 :- set(star_default_recall, 5).
@@ -12,7 +12,7 @@
 %:- set(mincover,75).
 %:- set(maximum_singletons_in_clause, 4).
 %:- set(sample, 0.4).
-:- set(nodes, 3000).
+%:- set(nodes, 3000). % Only affects TopLog
 :- set(cross_validation_folds,5).
 %:- set(auto_settings,lazy).
 %:- set(negseval,lazy).
